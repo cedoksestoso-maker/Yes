@@ -1,0 +1,6 @@
+{
+  "name": "happy birthday, boi",
+  "description": "A retro pixelated birthday celebration featuring an interactive spiky bouquet of purple flowers and moving pixel confetti.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
